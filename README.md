@@ -1,3 +1,3 @@
 # The-Sustainable-University
-Reproducing the Bain &amp; Company [analysis](
+Reproduce and update the Bain &amp; Company [analysis](
 http://www.thesustainableuniversity.com/)
